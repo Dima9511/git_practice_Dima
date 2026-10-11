@@ -1,1 +1,2 @@
 Line 1: Starting out and learning Git basics
+Line 2: Practicing push after each commit
