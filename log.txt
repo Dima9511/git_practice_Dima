@@ -1,0 +1,1 @@
+Line 1: Starting out and learning Git basics
