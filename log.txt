@@ -3,3 +3,6 @@ Line 2: Practicing push after each commit
 Line 3: Tracking intermediate changes in terminal
 
 let me try do this changing.
+I did this code, and can see it now in Github|
+Also i can see in VS code that when i change something i can see a green line in the left of the line.
+it's probably my changing.
